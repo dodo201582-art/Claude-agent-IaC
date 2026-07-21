@@ -9,8 +9,9 @@
 
 ## 📂 스킬 디렉토리 구조
 
+```text
 kt-cloud-vm/
-├── SKILL.md                 # 워크플로우 및 제약 규칙 (VM 생성/조회 전용)
+├── SKILL.md                  # 워크플로우 및 제약 규칙 (VM 생성/조회 전용)
 └── references/
     ├── flavors.md            # 플레이버 ID 목록 (vCPU / RAM / UUID)
     ├── networks.md           # 티어명 + osnetworkid 매핑 (19개)
