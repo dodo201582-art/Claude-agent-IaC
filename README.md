@@ -9,7 +9,6 @@
 
 ## 📂 스킬 디렉토리 구조
 
-```text
 kt-cloud-vm/
 ├── SKILL.md                  # 워크플로우 및 제약 규칙 (VM 생성/조회 전용)
 └── references/
